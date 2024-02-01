@@ -1,0 +1,30 @@
+body{
+    margin-left: 250px;
+    background-color: black;
+}
+
+#background {
+    background-color: black;
+    height: 250px;
+    width: 600px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: left;
+  
+    
+    
+  }
+
+  .container{
+    color: aliceblue;
+    text-align: center;
+    padding: 2%;
+    
+  }
+
+  .about {
+    margin: 0 auto;
+    width: 50%;
+ 
+    background-color: blue;
+ }
