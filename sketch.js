@@ -9,7 +9,7 @@ function startMenu()
   textAlign(CENTER);
   textSize(32);
   fill(255,225);
-  text("A G A R . I O ", 
+  text("Q U A N T U M  -  n e x u s ", 
        width/2, height/2)
   noFill()
   stroke(225,225)
